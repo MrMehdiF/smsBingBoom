@@ -1,13 +1,13 @@
-# EliteBombing
+# smsBingBoom
 
 >> apt update && apt upgrade 
 
 >> git clone < link > 
 
->> cd EliteBombing
+>> cd smsBingBoom
 
 >> chmod 777 *
 
 >> bash install
 
->> python EliteBombing.py
+>> python smaBingBoom.py
