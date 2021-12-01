@@ -2,7 +2,7 @@
 
 >> apt update && apt upgrade 
 
->> git clone < link > 
+>> git clone https://github.com/MrMehdiF/smsBingBoom.git
 
 >> cd smsBingBoom
 
